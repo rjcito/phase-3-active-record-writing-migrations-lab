@@ -76,7 +76,6 @@ before proceeding. The `students` table should now have `name`, `grade`, and
 `birthdate` columns.
 
 ## Changing a Column
-
 Imagine you're creating an incredible web app to send out a birthday greeting on
 each student's birthday. While building this, you realize you accidentally
 stored your `birthdate` data as a `string`. It would be much easier to work with
